@@ -1,6 +1,4 @@
-# 💻📚 개발서적 스터디
-
-## 1️⃣ 클린코드 (Clean Code) / 로버트C.마틴
+# 1️⃣ 클린코드 (Clean Code) / 로버트C.마틴
 
 ![Alt text](image.png)
 
